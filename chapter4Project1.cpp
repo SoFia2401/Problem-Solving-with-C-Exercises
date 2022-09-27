@@ -3,6 +3,15 @@
 
 using namespace std;
 
+/* Program that computes the annual after-tax cost of a new house for the first year of ownership
+Cost computed from the annual mortgage cost minus the tax savings. The annual mortgagec cost is estimated
+as 3 percent of the initial loan balance credited toward paying oof the loan principal plus 6 percent 
+of the initial loan balance in interest. The initial loan balance is the price minus the down payment. 
+Assume a 35 percent marginal tax rate and assume that interest payments are tax deductible. So, the 
+the traz savings is 35 percent of the interst payment. Your program shoudl use at leaaast two function 
+ definitions and should allow the user to repeat this calulataion as often as the user wishes.
+*/
+
 int main()
 {
 
