@@ -42,7 +42,7 @@ int main()
 
     cout<< "The annual cost of the house after tax is ";
 
-    cout<< calcAnnualAfterTaxCost(annualMortgageCost, savings);
+    cout<< calcAnnualAfterTaxCost(annualMortgageCost, savings) << endl;
 
     cout<< "Would you like to make another calculation? Select 1 for yes or 0 to exit \n";
     cin >> repeatCode;
