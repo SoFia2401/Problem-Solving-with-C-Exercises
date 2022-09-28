@@ -4,6 +4,13 @@
 
 using namespace std; 
 
+/* Write a program that outputs the lyrics for the song "Ninety-Nine Bottles of Beer on the Wall."
+Your program should print the number of bottles in English, not as a number. Design your program 
+with a function that takes an argument an integer between 0 and 99 and returns a string that 
+contains the integer value in English.
+
+*/
+
 int main()
 {
 
