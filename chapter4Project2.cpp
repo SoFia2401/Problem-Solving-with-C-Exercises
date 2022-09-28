@@ -4,6 +4,13 @@
 
 using namespace std;
 
+/* Write a program to calculate the volume of spheres, cylinders and boxes. Your program should 
+contain three functions, each called calcVolume and returning a double. Define a global constant PI 
+and set its value to 3.14. Your program should ask the user which shape's volume they want to calculate, 
+and get the required information. It should then call the correct calcVolume function and output the volume 
+to the screen.
+*/
+
 int main()
 {
 
